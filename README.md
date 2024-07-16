@@ -12,3 +12,6 @@ A user interface is built using streamlit to enable uploading the image and play
 
 ## Deployment on Streamlit
 [Run here on Streamlit](https://image-to-speech-genai-tool.streamlit.app/)
+
+![outputSS](https://github.com/user-attachments/assets/470ed04c-8311-418a-a26c-f3af6c7b327c)
+
