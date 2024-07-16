@@ -9,3 +9,6 @@ This is an AI app which executes in three parts:
 3. Story to speech: a text-to-speech model (OpenAI Text-To-Speech) is used to convert the generated short story into a voice-narrated audio file
 
 A user interface is built using streamlit to enable uploading the image and playing the audio file.
+
+## Deployment on Streamlit
+[Run here on Streamlit](https://image-to-speech-genai-tool.streamlit.app/)
