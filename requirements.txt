@@ -1,7 +1,6 @@
 transformers
-torch
 langchain
+langchain-community
 openai
 python-dotenv
-requests
 streamlit
