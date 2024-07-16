@@ -12,7 +12,7 @@ from langchain.chat_models import ChatOpenAI
 from langchain.prompts import PromptTemplate
 from transformers import pipeline
 
-from utils.custom import css_code
+from custom import css_code
 
 client = OpenAI()
 
